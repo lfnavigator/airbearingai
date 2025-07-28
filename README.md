@@ -38,14 +38,7 @@ Yet **no modern tools exist** that allow engineers to model real bearing geometr
 ## 🧑‍🔬 Author & Team
 
 - **Dr. Oleksii Breshev (PhD)** – Mechanical Engineer, AI integrator, product founder  
-  > 10+ years in gas-static systems, CAD automation, rotor modeling, and AI-enhanced workflows.  
-  > Strong academic background + startup ambition.  
-  > Projects: RotorCalc, TMM textbook (EN), FPV-AI drones, GPT-driven automation
-
 - **Prof. Volodymyr Breshev** – Scientific Advisor  
-  > 40+ years of experience in rotor dynamics and non-contact bearings.  
-  > Author of textbooks and patents in Ukraine.  
-  > Pioneer in analytical modeling of conical hybrid gas supports.
 
 ---
 
