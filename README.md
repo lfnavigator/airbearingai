@@ -5,8 +5,9 @@
 AURA RotorCalc is a precision SaaS utility for advanced engineers.  
 It enables rapid, physics-based modeling of gas-static systems with:
 
-- ✅ Axial & radial load capacity calculation
+- ✅ Axial & Radial load capacity calculation
 - ✅ Stiffness and damping evaluation
+- ✅ Rotor dynamic
 - ✅ Air consumption estimation
 - ✅ Pressure-based integrals
 - ✅ Fully configurable geometry & nozzle patterns
@@ -27,11 +28,6 @@ Non-contact gas-lubricated bearings are the future of high-precision, wear-free 
 - Aerospace turbines and cryogenic systems  
 - Semiconductor and nanotech actuators  
 - Rotor dynamics and magnetic levitation R&D  
-
-Yet **no modern tools exist** that allow engineers to model real bearing geometries with gas film dynamics.  
-**AirBearing.AI** is the first to bridge this gap with Python + AI-powered insights.
-
-> We believe this is a $1M+ deeptech niche waiting to be unlocked.
 
 ---
 
