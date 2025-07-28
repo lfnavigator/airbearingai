@@ -10,13 +10,13 @@ AURA RotorCalc is a precision tool that calculates:
 - Pressure-based integrals for hybrid gas bearings
 - Configurable nozzle and geometry parameters
 
-## рџљЂ Try It Online
+## Try It Online
 Demo: Coming soon  
 Main Site: [https://lfnavigator.github.io/airbearingai/](https://lfnavigator.github.io/airbearingai/)
 
 ---
 
-## рџ§  Why This Matters
+## Why This Matters
 
 Non-contact gas-lubricated bearings are a future-proof, wear-free solution for:
 - Aerospace and cryogenics
@@ -29,14 +29,14 @@ There are **no modern tools** available to model arbitrary configurations with d
 
 ---
 
-## рџ› пёЏ Author & Team
+## рџ› Author & Team
 
 - **PhD Oleksii Breshev** вЂ“ Founder, Engineer
 - **Prof. Volodymyr Breshev** вЂ“ Scientific Advisor, Creator
 
 ---
 
-## рџ“… Roadmap
+## “… Roadmap
 
 - [x] MVP calculation engine
 - [x] Web landing page
@@ -46,7 +46,7 @@ There are **no modern tools** available to model arbitrary configurations with d
 
 ---
 
-## рџ“¬ Contact
+## “¬ Contact
 
 Email: abreshev@gmail.com
 Telegram:@Breshev_Engineering
