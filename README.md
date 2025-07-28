@@ -1,5 +1,5 @@
 
-# рџЊЂ AirBearing.AI
+# AirBearing.AI
 
 **AI-powered calculator for gas-lubricated bearing systems.**
 
