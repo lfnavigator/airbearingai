@@ -1,53 +1,70 @@
+# 🌀 AirBearing.AI
 
-# AirBearing.AI
+**AI-powered engineering tool for hybrid gas-lubricated bearings**
 
-**AI-powered calculator for gas-lubricated bearing systems.**
+AURA RotorCalc is a precision SaaS utility for advanced engineers.  
+It enables rapid, physics-based modeling of gas-static systems with:
 
-AURA RotorCalc is a precision tool that calculates:
-- Radial / Axial load capacity 
-- stiffness
-- Air consumption 
-- Pressure-based integrals for hybrid gas bearings
-- Configurable nozzle and geometry parameters
-
-## Try It Online
-Demo: Coming soon  
-Main Site: [https://lfnavigator.github.io/airbearingai/](https://lfnavigator.github.io/airbearingai/)
+- ✅ Axial & radial load capacity calculation
+- ✅ Stiffness and damping evaluation
+- ✅ Air consumption estimation
+- ✅ Pressure-based integrals
+- ✅ Fully configurable geometry & nozzle patterns
 
 ---
 
-## Why This Matters
+## 🚀 Try It Online
 
-Non-contact gas-lubricated bearings are a future-proof, wear-free solution for:
-- Aerospace and cryogenics
-- Rotor dynamics
-- Precision machinery
-
-There are **no modern tools** available to model arbitrary configurations with dynamic gas pressure and real geometry.
-
-> We believe this is a $1M+ niche waiting to be unlocked.
+Main Site: [https://lfnavigator.github.io/airbearingai/](https://lfnavigator.github.io/airbearingai/)  
+Demo: Coming soon
 
 ---
 
-## рџ› Author & Team
+## 🧠 Why This Matters
 
-- **PhD Oleksii Breshev** вЂ“ Founder, Engineer
-- **Prof. Volodymyr Breshev** вЂ“ Scientific Advisor, Creator
+Non-contact gas-lubricated bearings are the future of high-precision, wear-free mechanics — powering:
 
----
+- Aerospace turbines and cryogenic systems  
+- Semiconductor and nanotech actuators  
+- Rotor dynamics and magnetic levitation R&D  
 
-## “… Roadmap
+Yet **no modern tools exist** that allow engineers to model real bearing geometries with gas film dynamics.  
+**AirBearing.AI** is the first to bridge this gap with Python + AI-powered insights.
 
-- [x] MVP calculation engine
-- [x] Web landing page
-- [ ] Upload textbook chapter (EN version)
-- [ ] Geometry selector + PDF reports
-- [ ] SaaS deployment with user auth
+> We believe this is a $1M+ deeptech niche waiting to be unlocked.
 
 ---
 
-## “¬ Contact
+## 🧑‍🔬 Author & Team
 
-Email: abreshev@gmail.com
-Telegram:@Breshev_Engineering
+- **Dr. Oleksii Breshev (PhD)** – Mechanical Engineer, AI integrator, product founder  
+  > 10+ years in gas-static systems, CAD automation, rotor modeling, and AI-enhanced workflows.  
+  > Strong academic background + startup ambition.  
+  > Projects: RotorCalc, TMM textbook (EN), FPV-AI drones, GPT-driven automation
 
+- **Prof. Volodymyr Breshev** – Scientific Advisor  
+  > 40+ years of experience in rotor dynamics and non-contact bearings.  
+  > Author of textbooks and patents in Ukraine.  
+  > Pioneer in analytical modeling of conical hybrid gas supports.
+
+---
+
+## 🛣️ Roadmap
+
+- [x] MVP axial bearing capacity calculator  
+- [x] Static web landing + GitHub Pages launch  
+- [ ] Add textbook (translated chapter, digital version)  
+- [ ] Parameterized geometry generator + PDF export  
+- [ ] Launch full SaaS backend (FastAPI + React)
+
+---
+
+## 📬 Contact
+
+- Email: abreshev@gmail.com  
+- Telegram: [@Breshev_Engineering](https://t.me/Breshev_Engineering)  
+- GitHub: [github.com/lfnavigator](https://github.com/lfnavigator)
+
+---
+
+> Built with 💡 passion for deep tech, precision engineering, and AI-powered future.
